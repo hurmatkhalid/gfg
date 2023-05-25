@@ -1,6 +1,4 @@
 // Given an array A of size N of integers.Your task is to find the sum of minimum and maximum element in the array.
-//{ Driver Code Starts
-/* Driver program to test above function */
 
 #include <iostream>
 using namespace std;
